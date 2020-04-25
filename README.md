@@ -7,7 +7,7 @@ Data was gleaned from two sources: https://www.kaggle.com/bappekim/air-pollution
 
 ![ETL_table](https://user-images.githubusercontent.com/58399638/80284823-d7423400-86ee-11ea-9d9f-cb0e3d477f34.PNG)
 
-* These columns initially contained measurements in ug.  However, as the column label contained a decimal (PM2.5), we were unable to use this as a field label in a postgres db.  Multiplying the values out by a factor of two remedied this.
+"*" These columns initially contained measurements in ug.  However, as the column label contained a decimal (PM2.5), we were unable to use this as a field label in a postgres db.  Multiplying the values out by a factor of two remedied this.
 
 Load
 
