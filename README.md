@@ -1,5 +1,6 @@
 # ETL_project
 Basic ETL practice
+
 Extract and Transform
 
 Data was gleaned from two sources: https://www.kaggle.com/bappekim/air-pollution-in-seoul and https://data.world/datagov-uk/b7cd6b51-57b1-4105-babc-09d8318d1f73. Using Jupyter Notebook and the Pandas library, the two csv files were read in and converted to dataframes. The following changes were then made to the data files:
